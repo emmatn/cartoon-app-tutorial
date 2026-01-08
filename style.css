@@ -8,7 +8,7 @@
     --color-button-background: #FFF;
     --color-heading-text: #FFF;
     --color-button-text: #0e849e;
-    --color-message-text: #0e569e;
+    --color-message-text: #0e3c9e;
     
     /* Images */
     --image-path-background: url('assets/main-bg.png');
@@ -73,7 +73,7 @@
   .inner-container {
     position: relative;
     width: 100%;
-    aspect-ratio: 500 / 380;
+    aspect-ratio: 430 / 280;
     border: var(--border-width-inner) solid var(--color-border);
     border-radius: var(--border-radius);
     background: var(--color-inner-container-background);
@@ -119,7 +119,7 @@
   .image-content {
     position: relative;
     height: 65%;
-    aspect-ratio: 370 / 300;
+    aspect-ratio: 142.5 / 171;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
