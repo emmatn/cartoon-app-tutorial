@@ -1,14 +1,14 @@
 /* Customization Variables */
 :root {
     /* Colors */
-    --color-page-background: #f1b4f7;
-    --color-main-container-background: #73b1eb;
+    --color-page-background: #50AFC9;
+    --color-main-container-background: #FF5B70;
     --color-inner-container-background: #FFF7F4;
-    --color-border: #0e8b9e;
+    --color-border: #9E0E2B;
     --color-button-background: #FFF;
     --color-heading-text: #FFF;
-    --color-button-text: #0e849e;
-    --color-message-text: #0e3c9e;
+    --color-button-text: #9E0E2B;
+    --color-message-text: #9E0E2B;
     
     /* Images */
     --image-path-background: url('assets/main-bg.png');
