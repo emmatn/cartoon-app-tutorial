@@ -100,7 +100,7 @@ For the background image sizing:
 ```css
 body {
   /* ... other properties ... */
-  background-size: 100% auto; /* Adjust based on your background image dimensions (2093x1132px) */
+  background-size: 120% auto; /* Adjust based on your background image dimensions (2093x1132px) */
 }
 ```
 
