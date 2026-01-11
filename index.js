@@ -76,3 +76,4 @@ mainButton.addEventListener('click', () => {
     finalMessage.style.display = 'block';
   }
 });
+
