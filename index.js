@@ -49,6 +49,7 @@ function updateImage() {
     // Fade in new image
     imageContent.style.opacity = 1;
   };
+
 }
 
 // =============================================
