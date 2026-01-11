@@ -11,8 +11,8 @@
     --color-message-text: #9E0E2B;
     
     /* Images */
-    --image-path-background: url('assets/main-bg.png');
-    --image-path-content: url('assets/image-content/image-1.png');
+    --image-path-background: url('assets/main-big.png');
+    --image-path-content: url('assets/image-content/dino-1.png');
     
     /* Fonts */
     --font-family-main: "Pixelify Sans", sans-serif;
